@@ -1,1 +1,2 @@
-# Mobile-Sales-Dashboard
+PROJECT TITILE                                                                                                                                                    Mobile Sales Analytics Dashboard: MTD Growth Monitoring & Year-over-Year Sales Insights                                                                           A comprehensive view of sales quantity, revenue and customer behaviour, combining month-to-date sales insights and year-over-year comparison for informed decision making.
+PURPOSE                                                                                                                                                           
