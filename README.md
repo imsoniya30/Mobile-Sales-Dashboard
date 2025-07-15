@@ -65,19 +65,25 @@ To deliver an interactive visual tool that enables users to explore mobile phone
 
     Compares total sales of current and previous year by quarter, month and year, enabling users to measure annual growth and performance changes.
 
+
 ## Business Impact and Insights
 
 * Operational Efficiency 
-Weekday sales are high, showing that demand is managed well during the workweek. This helps reduce pressure on weekends.
+
+    Weekday sales are high, showing that demand is managed well during the workweek. This helps reduce pressure on weekends.
 
 * Marketing Optimization
-Focus marketing efforts on Q1, Q3, and Q4, which had lower sales. Use discounts and special deals.Also, improve sales in weaker cities and weekends through promotions.
+
+    Focus marketing efforts on Q1, Q3, and Q4, which had lower sales. Use discounts and special deals.Also, improve sales in weaker cities and weekends through promotions.
 
 * Geographic Expansion
-Cities like Ranchi, Jodhpur, and Rajkot are showing good response. There is a chance to grow sales by expanding in these areas.
+
+    Cities like Ranchi, Jodhpur, and Rajkot are showing good response. There is a chance to grow sales by expanding in these areas.
 
 * Brand Positioning
-Apple and OnePlus are performing well even with high prices. This shows strong brand loyalty. Use this to promote EMI and exchange schemes.
+
+    Apple and OnePlus are performing well even with high prices. This shows strong brand loyalty. Use this to promote EMI and exchange schemes.
 
 * Inventory & Planning
-Sales are mostly stable across months. This helps in planning better, reducing the chances of running out of stock.
+
+    Sales are mostly stable across months. This helps in planning better, reducing the chances of running out of stock.
